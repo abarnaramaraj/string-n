@@ -1,0 +1,3 @@
+Str=input("enter the string"):
+n=int(input("no of time repeat"):
+Str=(int(n))
